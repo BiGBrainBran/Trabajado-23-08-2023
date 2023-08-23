@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Password">Contraseña</string>
+    <string name="Sesion">Bienvenido al inicio de sesión</string>
+    <string name="username">Usuario</string>
+    <string name="iniciarsesion">Iniciar sesión</string>
+
+
+</resources>
